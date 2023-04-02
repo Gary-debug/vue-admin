@@ -1,11 +1,10 @@
-# kitty-ui
+# 后台管理模版
 
-> kitty ui project
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 下载
 npm install
 
 # serve with hot reload at localhost:8080
